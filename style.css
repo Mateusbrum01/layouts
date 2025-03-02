@@ -12,7 +12,7 @@ body{
 .amarelo{
     background-color: rgb(255, 251, 0);
     padding: 100px;
-    margin: 20px;
+    margin: 22px;
 }
 
 .extender{
@@ -25,5 +25,5 @@ body{
 }
 .alongar{
 
-    height: 300px;
+    height: 250px;
 }
